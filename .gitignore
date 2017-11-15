@@ -1,3 +1,16 @@
 /vendor
 /sites/default/files
 /sites/default/settings.php
+
+# OS generated files #
+######################ß
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+
+# Editor generated files #
+######################
+*.un~
+.idea/
